@@ -1,5 +1,5 @@
 # martian-robot
-martian robot
+
 Use MartianRobotMain file to run 
 
 Input to MartianRobotMain can be supplied at runtime follows. The unit test also runs the given sample.
